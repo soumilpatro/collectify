@@ -1,0 +1,22 @@
+# Local state and secrets
+instance/
+static/uploads/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+*.db
+*.sqlite
+*.sqlite3
+# Tool and editor output
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

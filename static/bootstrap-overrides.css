@@ -1,0 +1,6 @@
+/* Collectify layout overrides for Bootstrap's generic row utility. */
+.row{margin:0}
+.row>*{width:auto;max-width:none;margin-top:0;padding:0;flex-shrink:1}
+.badge{font-weight:500;line-height:1.4;vertical-align:middle}
+.btn{font-weight:400}
+dialog form select{width:100%}
